@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋 I'm Abdul Tayab
+* 3rd-year IT Student at University of Sindh
+* Check out my professional portfolio: [View Portfolio](https://dent-bush-b58.notion.site/ABDUL-TAYAB-PORTFOLIO-3e9f4024d5c180e08367fcb17053b1e8?source=copy_link)
 
 <!--
 **2k24-it-9-a11y/2k24-it-9-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
